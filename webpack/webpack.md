@@ -1,8 +1,10 @@
-# webpack
+# webpack配置
 ## 1.创建基本的webpack4.x项目
 1.运行```npm init -y```快速初始化项目。
 2.项目根目录下创建```src```源代码目录和```dist```产品目录。
+
 3.在```src```目录下创建index.html,index.js.
+
 4.使用cnpm安装webpack```cnpm install webpack webpack-cli -D```,在根目录下创建```webpack.config.js```,进行初始化配置。
 
 * 全局安装cnpm运行```npm install cnpm -g ```
